@@ -1,0 +1,3 @@
+[pip]
+# Wait 3 days before allowing new package versions
+exclude-newer = "3d"
